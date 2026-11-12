@@ -1,0 +1,6 @@
+keys/
+configs/
+
+*.key
+phone.conf
+wg0.conf
